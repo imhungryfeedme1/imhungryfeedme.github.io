@@ -1,0 +1,75 @@
+.hi {
+  color:purple;
+  border-style: hidden; 5
+  padding: 2em;
+  
+}
+a {
+  color:blue;
+  
+}
+.colors {
+  background-color: #F000;
+  color: lightcoral;
+  color: rgb(233, 123, 150);
+  color: rgba(254, 255, 255, 0.); 
+  color: hsl(180, 80%, 60%);
+  background-color: hsla(120, 100%, 50%, 0.3)
+  }
+body {
+  background-image: url("http://www.animateit.net/data/media/june2010/animated_60.gif");
+  color:black;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000;
+    family-font: Ailerons; 
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: purple;
+    text-align: center;
+    padding: 30px 30px;
+    text-decoration: none;
+  font-family: Courier New;
+    
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #FF0087;
+}
+ul {
+    position: fixed;
+    top: 0;
+    width: 100%;
+
+}
+h4 {
+  background-image:  url("http://static1.squarespace.com/static/57637c2c15d5db8b804a4a05/t/57b79c7420099ed6232859ee/1471650934800/266c79_047c13ff4d22cb2286bbfab616f0c763.gif?format=2500w");
+  background-size
+   background-repeat: no-repeat;
+    background-attachment: fixed;
+  
+}
+h4 {
+  margin: 0 auto;
+  max-width: 50em;
+}
+h {
+  margin: 0 auto;
+  max-width: 50em;
+  
+}
